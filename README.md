@@ -37,7 +37,7 @@ Ceci est un template de dépôt Git pour le cours d'ingénierie système et mod�
 
 Le dossier `workspaceRos` est la racine du workspace `catkin` pour les packages ROS. Ces derniers doivent être placés sous `workspaceRos/src`.    
 Consulter le [README](workspaceRos/README.md) du workspace pour plus d'informations.
-
+dd
 
 ### Documents
 
